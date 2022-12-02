@@ -1,0 +1,44 @@
+[
+  {
+    "companyName": "NoriStore",
+    "aboutCompany": "NoriStore là cửa hàng chuyên cung cấp các loại sách đa dạng như sách giáo khoa, văn học, truyện tranh,... Chúc bạn có trải nghiệm mua sắm tuyệt vời ở NoriStore.",
+    "heading": [
+      {
+        "aboutus": "About Us",
+        "technical": "Technical",
+        "information": "Information",
+        "account": "Account"
+      }
+    ],
+    "technical": [
+      { "link": "MongoDB", "path": "/#" },
+      { "link": "ExpressJS", "path": "" },
+      { "link": "ReactJS", "path": "" },
+      { "link": "NodeJS", "path": "" }
+    ],
+    "infoData": [
+      {
+        "link": "About Us",
+        "path": "/aboutus"
+      },
+      {
+        "link": "Books",
+        "path": "/products"
+      }
+    ],
+    "accountInfo": [
+      {
+        "link": "My Account",
+        "path": "/account"
+      },
+      {
+        "link": "My Cart",
+        "path": "/cart"
+      },
+      {
+        "link": "Login",
+        "path": "/login"
+      }
+    ]
+  }
+]
